@@ -1,13 +1,12 @@
 body {
     font-family: 'Roboto', sans-serif;
-    margin-left: 200px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 div {
     margin: 0 auto;
-    width: 500
+    width: 500px;
 }
 
 
@@ -37,10 +36,20 @@ h4 {
     background-color: lightblue;
     font-size: 12px;
     border: 1px;
-    width: 40%
+    width: 112.5%
 }
 
 
 h5 {
     font-size: 20px;
+}
+
+
+h6 {
+    border: solid;
+    border-color: lightblue;
+    background-color: lightblue;
+    font-size: 12px;
+    border: 1px;
+    width: 130%
 }
